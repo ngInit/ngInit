@@ -1,7 +1,7 @@
 <div align="left">
     
 ```json
-"firstName": "Aleksey",
+"firstName": "Aleksei",
 "lastName": "Nikolaev",
 "education": "Engineer / Developer",
 "hobbies": {
