@@ -48,7 +48,7 @@
 </p>
 <h1></h1>
 <br><br>
-<p align="left">
+<p align="center">
     <img width="338" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngInit&show_icons=true&locale=en&layout=compact" alt="ngInit"/>
     &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;
     <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=ngInit" alt="ngInit"/>
